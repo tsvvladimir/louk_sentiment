@@ -1,0 +1,1 @@
+vw -t -i ../../models/oaa.model ../../data/vw/test_tfidf.vw -p ../../data/predictions/oaa.predict

@@ -1,0 +1,3 @@
+[submodule "src/phraug2"]
+	path = src/phraug2
+	url = https://github.com/zygmuntz/phraug2.git

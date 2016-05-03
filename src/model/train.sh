@@ -1,0 +1,1 @@
+vw --oaa 3 ../../data/vw/train_tfidf.vw -f ../../models/oaa.model
